@@ -1,3 +1,5 @@
 # My-First-Remote-Repository
 A first repository for learning the basics  
-**Author:** Edgard Stultjens, *Oudenaarde*
+**Teacher:** Edgard Stultjens, *Oudenaarde*
+**Students:**  
+- *Add your name to this list*
